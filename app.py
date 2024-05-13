@@ -1,1 +1,1 @@
-# Modification of file
+# To see git commands, type in terminal: git help log
